@@ -1,5 +1,9 @@
 ## Student at Western University
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/henriquepm7/henriquepm7/main/bonfire.gif" alt="Dark Souls Bonfire" width="350" style="image-rendering: pixelated;" />
+</p>
+
 <!--
 **henriquepm7/henriquepm7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
